@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218147066491",
+    "project_id": "ratting-app-34a8e",
+    "storage_bucket": "ratting-app-34a8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218147066491:android:f797e15aab7f9c7f0388de",
+        "android_client_info": {
+          "package_name": "com.example.ratting_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9p8Bhu3XfI8CjkupSTtVf4mZJOQmr0aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
